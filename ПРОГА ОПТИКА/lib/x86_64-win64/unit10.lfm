@@ -1,0 +1,10 @@
+object Form10: TForm10
+  Left = -9
+  Height = 1051
+  Top = -9
+  Width = 1920
+  Caption = 'Form10'
+  DesignTimePPI = 120
+  OnCreate = FormCreate
+  LCLVersion = '3.0.0.3'
+end
